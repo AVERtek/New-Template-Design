@@ -14,6 +14,6 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   <h2 style="text-align: center;" markdown="1"><b>TAKE TOUR; FREE GIFT:</b><a href="https://alexanbahay.com/special/?utm_source=AVERtek&utm_medium=AR" onclick="getOutboundLink('https://alexanbahay.com/special/?utm_source=AVERtek&utm_medium=AR'); return false;"<b> USE CODE: DODGERS</b></h2></a> 
   <br><br>
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
 # Google Analytics
 google_analytics: UA-188164724-1 
