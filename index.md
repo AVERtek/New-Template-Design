@@ -1,7 +1,7 @@
 <p align="center">
   <img src="images/Dodgers 1.jfif" width=200>
 </p>
-<h2 style="text-align: center;" markdown="1"> DANCE THE "7th INNING STRETCH"!</h2> <!-- Loads <model-viewer> for old browsers like IE11: -->
+## DANCE THE "7th INNING STRETCH"!</h2> <!-- Loads <model-viewer> for old browsers like IE11: -->
 <h2 style="text-align: center;" markdown="1"> On Mobile: Press "AR" Button; To Video Press/Hold Camera Button; Then Share!</h2> <!-- Loads <model-viewer> for old browsers like IE11: -->
 <script nomodule="" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js">
   </script>
