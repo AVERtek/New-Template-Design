@@ -1,3 +1,4 @@
+<text-alaign:center; markdown="1">
 ## DANCE THE "7th INNING STRETCH"! <!-- Loads <model-viewer> for old browsers like IE11: -->
 <p align="center">
   <img src="images/Dodgers 1.jfif" width=200>
