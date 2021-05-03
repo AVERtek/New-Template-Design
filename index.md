@@ -1,4 +1,4 @@
-<p style="text-align: center;">## DANCE THE "7th INNING STRETCH"!</p> <!-- Loads <model-viewer> for old browsers like IE11: -->
+<h1 style="text-align: center;"> DANCE THE "7th INNING STRETCH"!</h1> <!-- Loads <model-viewer> for old browsers like IE11: -->
 <p align="center">
   <img src="images/Dodgers 1.jfif" width=200>
 </p>
