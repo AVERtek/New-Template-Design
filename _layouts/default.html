@@ -26,8 +26,10 @@
         {% endif %}
         
         {% if site.logo2 %}
-          <img src="{{site.logo2 | relative_url}}" alt="Logo" />
-        {% endif %}
+        <p align="center">
+        <img src="{{site.logo2 | relative_url}}" alt="Logo" />
+        </p>
+           {% endif %}
        
         <p>{{ site.description | default: site.github.project_tagline }}</p>
        
